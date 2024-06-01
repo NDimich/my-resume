@@ -1,1 +1,3 @@
-# my-resume
+# My-resume
+
+Try to use Git
